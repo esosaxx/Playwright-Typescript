@@ -1,6 +1,6 @@
-import dotenv from 'dotenv';
+import dotenv from "dotenv";
 
 export const loginCredentials = {
-    username: process.env.username,
-    password: "secret_sauce"
-}
+  username: process.env.username,
+  password: "secret_sauce",
+};

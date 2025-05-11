@@ -1,5 +1,5 @@
 export const guestDetails = {
-    firstName: "esosa",
-    lastName: "ruth",
-    postcode: "DA18"
-}
+  firstName: "esosa",
+  lastName: "ruth",
+  postcode: "DA18",
+};
